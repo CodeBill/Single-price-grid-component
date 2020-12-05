@@ -101,7 +101,7 @@ body .container .lower .sec-box p {
   color: #e5eff5;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 700px) {
   body .container .upper {
     width: 320px;
     margin: 0 auto;
